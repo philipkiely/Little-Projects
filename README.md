@@ -1,6 +1,9 @@
-# Little-Projects
+# Python-Procedures
 
-This is just a repository of short programs like FizzBuzz that I've written. 
+This is just a repository of short programs like recursive selection sort, recursive map clone, and of course FizzBuzz that I've written. 
+
+Note that sumfunction.py, maxfunction.py, mapfunction.py, and selectionsort.py could all be written differently by using built-in python elements and avoiding recursion. However, the point of these procedures is to do functional programming in python.
+
 
 calc2tys3
 
