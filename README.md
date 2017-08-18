@@ -2,6 +2,8 @@
 
 This is just a repository of short programs like recursive selection sort, recursive map clone, and of course FizzBuzz that I've written. 
 
+shakespearerhymeprototype uses all of shakespeare's sonnets, arranged in a nested array with each line a string, gives a rhyming line of iambic pentameter for 1032 distinct words, 271 of which are part of english's 1000 most common words.
+
 Note that sumfunction.py, maxfunction.py, mapfunction.py, and selectionsort.py could all be written differently by using built-in python elements and avoiding recursion. However, the point of these procedures is to do functional programming in python.
 
 
